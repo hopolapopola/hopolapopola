@@ -2,7 +2,7 @@
 
 <!--
 **hopolapopola/hopolapopola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+cum.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am *very* gay
 
 #### Here are some fun things you should check out
+- [My server!](https://discord.gg/TnG8MzFmwm)
 - [Gay anime females](https://reddit.com/r/wholesomeyuri)
 - [Gay anime females, but on twitter](https://twitter.com/CuteYuriBot)
 - [Silly-o](https://github.com/Sileo/Sileo)
