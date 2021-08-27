@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😎 I'm Riley 
 - 😄 Pronouns: She/they
 - 🔢 I do coding things for fun sometimes
-- 🔭 I’m currently working on keeping [Sileo](https://github.com/Sileo/Sileo) RO translations up to date, and helping here and there
+- 🔭 I’m currently working on being gay
 - 😤 I know a little bit of python, java, (bash) shell scripting
 - 💬 Ask me about arch. I use arch, btw
 - ⚡ Fun fact: I am *very* gay
@@ -28,4 +28,3 @@ Here are some ideas to get you started:
 - [My server!](https://discord.gg/TnG8MzFmwm)
 - [Gay anime females](https://reddit.com/r/wholesomeyuri)
 - [Gay anime females, but on twitter](https://twitter.com/CuteYuriBot)
-- [Silly-o](https://github.com/Sileo/Sileo)
