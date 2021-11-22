@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😎 I'm Riley 
 - 😄 Pronouns: She/they
 - 🔢 I do coding things for fun sometimes
-- 🔭 I’m currently working on being a vtuber (pls [follow](https://twitch.tv/hopolapopola))
+- 🔭 I’m currently working on being a vtuber (pls [follow](https://www.youtube.com/channel/UCGe25s-CAhX_8E2lwfaA30A))
 - 😤 I know a little bit of python, java, (bash) shell scripting
 - 💬 Ask me about arch. I use arch, btw
 - ⚡ Fun fact: I am *very* gay
