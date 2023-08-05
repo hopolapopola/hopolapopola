@@ -2,7 +2,7 @@
 
 <!--
 **hopolapopola/hopolapopola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-cum.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 🔢 I do coding things for fun sometimes
 - 🔭 I’m currently working on being a vtuber (pls [follow](https://www.youtube.com/channel/UCGe25s-CAhX_8E2lwfaA30A))
 - 😤 I know a little bit of python, java, (bash) shell scripting
-- 💬 Ask me about arch. I use arch, btw
+- 💬 I have a blog⁉️ blog.arachnid.pink
 - ⚡ Fun fact: I can speak 4 languages to some level of competency (English, Romanian, German, Japanese - in order)
