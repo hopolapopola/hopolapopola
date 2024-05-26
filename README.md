@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 #### Who am I?
 - 😎 I'm Riley 
-- 😄 Pronouns: She/they
+- 😄 Pronouns: they/them in the streets, she/they in the sheets
 - 🔢 I do coding things for fun sometimes
-- 🔭 I’m currently working on being a vtuber (pls [follow](https://www.youtube.com/channel/UCGe25s-CAhX_8E2lwfaA30A))
-- 😤 I know a little bit of python, java, (bash) shell scripting
+- 💼 Cyber Analyst @ [redacted]
+- 🔭 I've worked with js, python, java, bash, and begrudgingly, PHP (CakePHP in particular)
 - 💬 I have a blog⁉️ blog.arachnid.pink
 - ⚡ Fun fact: I can speak 4 languages to some level of competency (English, Romanian, German, Japanese - in order)
