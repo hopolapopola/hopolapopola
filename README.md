@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### Who am I?
 - 😎 I'm Riley 
-- 😄 Pronouns: they/them in the streets, she/they in the sheets
+- 😄 Pronouns: they/them in the streets, [redacted] in the sheets
 - 🔢 I do coding things for fun sometimes
 - 💼 Cyber Analyst @ [redacted]
 - 🔭 I've worked with js, python, java, bash, and begrudgingly, PHP
